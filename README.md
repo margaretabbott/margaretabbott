@@ -1,37 +1,24 @@
 
 # About Me
-### I am a current sophomore at the University of Notre Dame. I am studying business analytics with a minor in computing and digital technologies. I am also a varsity coxswin on the women's rowing team. I enjoying spending my free time with loved ones, watching TV, and listening to all types of music. 
+I am a current sophomore at the **University of Notre Dame**. I am studying **business analytics** with a minor in **computing and digital technologies**. I am also a **varsity coxswain on the women's rowing team**. I enjoying spending my free time with loved ones, watching TV, and listening to all types of music. 
 ## Education 
-### University of Notre Dame | Mendoza College of Business | 2023-2027
+#### University of Notre Dame | Mendoza College of Business | 2023-2027
 ## Current Projects
 * Creating Python files and Streamlit apps
-* Data analysis with python 
+* Data analysis with python
+* PowerBI company data analysis and recommendations
+* SQL data queries 
 ## Technical Skills 
 * Python
+  * Pandas, NumPy, Seaborn, MatPlotLib, Streamlit, SpaCy, yFinanace, mplFinance, Prophet, sklLearn, DateTime
 * Excel 
 * PowerBI
 * LaTex
 * R-Studio
 * SQL
 ## Goals and Ambitions 
-### I hope to be fulent in python by the end of this semester. I would like to be able to analyze data and create visuals through Python code. 
+I hope to be fluent in Python and confident in using it for a variety of tasks. Since Python is the foundational language for artificial intelligence and many data-driven applications, developing strong skills in it is essential. I aim to use Python to efficiently analyze complex datasets and create clear, insightful visualizations that support decision-making.
 ## Contact Me
-### Email: mabbott3@nd.edu
-### Linkedin: https://www.linkedin.com/in/margaret-abbott-808895262/
-### Portfolio: https://github.com/margaretabbott/Abbott-Python-Portfolio
-
-
-<!--
-**margaretabbott/margaretabbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Email: mabbott3@nd.edu
+#### Linkedin: https://www.linkedin.com/in/margaret-abbott-808895262/
+#### Portfolio: https://github.com/margaretabbott/Abbott-Python-Portfolio
